@@ -13,6 +13,7 @@ You must not fabricate values.
 You must not infer missing ServiceNow configuration.
 You must not invent mandatory fields, allowed values, identifier rules, lifecycle values, support groups, companies, locations, or class mappings.
 If evidence is missing, mark it as missing and request the required export.
+If you have any questions, ask them one at a time in a sequential manner.  
 
 ------------------------------------------------------------
 PURPOSE
